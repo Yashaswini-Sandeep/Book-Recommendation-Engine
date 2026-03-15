@@ -59,27 +59,6 @@ Load Data -> Filter Active Users & Popular Items -> Build Sparse Matrix
 
 ---
 
-## How to Run
-
-### 1. Install R and RStudio
-Download from https://posit.co/download/rstudio-desktop/
-
-### 2. Clone the repository
-```bash
-git clone https://github.com/Yashaswini-Sandeep/Book-Recommendation-Engine.git
-```
-
-### 3. Open and run the script
-Open SearchEngineRecommendation.R in RStudio, update the file paths if needed, then press Ctrl+A -> Ctrl+Enter.
-
-### 4. Required packages (auto-installed)
-- dplyr
-- tidyr
-- Matrix
-- ggplot2
-
----
-
 ## Dataset
 
 - **Source:** Kaggle - Book Recommendation Dataset
@@ -110,7 +89,5 @@ Open SearchEngineRecommendation.R in RStudio, update the file paths if needed, t
 ---
 
 ## Author
-
 **Yashaswini Sandeep**
-Semester 1 - Computational Engineering
-Programming Assignment - Recommendation Engine
+
